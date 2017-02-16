@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Tour Guider App</string>
+
+    <string name="experiences">Experiences</string>
+    <string name="food_and_drink">Food/Drink</string>
+    <string name="tours">Tours</string>
+    <string name="theme_parks">Theme/WaterParks</string>
+
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="description">Description</string>
+
+    <string name="experiences_one_name">Scenic Drive Mt Bonnell</string>
+    <string name="experiences_one_address">775ft. Scenic Drive</string>
+    <string name="experiences_one_description">Hugging the east banks of Lake Austin, this road run will take you along Scenic Drive to the highest point in Austin- Mt. Bonnell</string>
+
+    <string name="experiences_two_name">San Gabriel River Paddling</string>
+    <string name="experiences_two_address">445 E Morrow St, Georgetown, TX 78626</string>
+    <string name="experiences_two_description">Easy access to a beautiful escape near Georgetown, TX.</string>
+
+
+    <string name="food_and_drink_one_name">Clarks Oyster Bar</string>
+    <string name="food_and_drink_one_address">1200 W 6th St</string>
+    <string name="food_and_drink_one_description">Clarks Oyster Bar focuses on a rawer menu of rare oysters like New Brunswick Fancy Sweets.</string>
+
+    <string name="food_and_drink_two_name">Josephine House</string>
+    <string name="food_and_drink_two_address">1601 Waterston Ave</string>
+    <string name="food_and_drink_two_description">Owned by the restaurant wunderkind behind the Jeffreys renovation, and located, well, behind Jeffreys, this bungalow-turned-lazy-lunching-destination only has 30 seats in which to enjoy their easy-sipping selection of afternoon cocktails.</string>
+
+
+    <string name="tours_one_name">Live Love Paddle</string>
+    <string name="tours_one_address">1610 E Riverside Dr, Austin, TX 78741</string>
+    <string name="tours_one_description">Live Love Paddle offers nightly guided kayak tours to watch the Congress Ave Bridge Bats in Austin, Texas.</string>
+
+    <string name="tours_two_name">Segway Nation</string>
+    <string name="tours_two_address">1108 Lavaca St, Austin, TX 78701</string>
+    <string name="tours_two_description">Austin Segway Tours is the perfect way to explore the capitol of Texas. </string>
+
+
+    <string name="theme_park_one_name">Seaworld San Antonio</string>
+    <string name="theme_park_one_address">10500 SeaWorld Drive, San Antonio, TX 78251</string>
+    <string name="theme_park_one_description">Experience up-close animal interactions and dive into the world beneath the waves on thrilling rides, like the Great White coaster and other cool rides.</string>
+
+    <string name="theme_park_two_name">Schlitterbahn New Braunfels Waterpark</string>
+    <string name="theme_park_two_address">400 N. Liberty, New Braunfels, TX 78130</string>
+    <string name="theme_park_two_description">Schlitterbahn Waterpark Resort in New Braunfels has over 3 miles of tubing adventures, 7 children’s water playgrounds,17 water slides, the world’s first surfing machine, and 3 uphill water coasters spread over 65 acres of fun!</string>
+
+</resources>
